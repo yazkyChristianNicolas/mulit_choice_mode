@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiChoiceModeExample</string>
+    <string name="list_title">Item List</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Remove</string>
+    <string name="items_selected">%1$s items</string>
+</resources>

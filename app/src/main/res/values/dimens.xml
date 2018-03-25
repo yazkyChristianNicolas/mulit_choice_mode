@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- tect -->
+    <dimen name="name">20sp</dimen>
+    <dimen name="description">14sp</dimen>
+
+    <!-- dimens -->
+    <dimen name="_1">8dp</dimen>
+    <dimen name="_2">16dp</dimen>
+</resources>
